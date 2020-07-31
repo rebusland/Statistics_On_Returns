@@ -1,0 +1,1 @@
+A project in which basic analysis, visualization and statistical inference on market data is performed. It was a good hands-on project for experimenting plotting and statistical tools of Python (mainly SciPy).
